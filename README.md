@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on [MinoScript](https://github.com/EcholightMC/MinoScript) for Minestom<br><br>🎓College Student @ UofO
+Currently working on [An Arcade Server](https://github.com/TiltMC/Tilt-Arcade)<br><br>🎓College Student @ UofO
 
 
 # 💻 Tech Stack:
