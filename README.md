@@ -11,5 +11,3 @@ Currently working on [A Tower Defense Server](https://github.com/TiltMC/Tilt-Tow
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hapily04&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
