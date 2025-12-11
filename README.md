@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on [TiltMC](https://github.com/TiltMC)<br><br>🎓College Student @ UofO
+🎓College Student @ UofO
 
 
 # 💻 Tech Stack:
